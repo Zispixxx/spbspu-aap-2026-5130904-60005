@@ -6,7 +6,6 @@
 #include <limits>
 
 namespace belykov {
-
   const int input_error_code = 1;
   const int calculation_error_code = 2;
   const int mode_static = 1;
